@@ -3,7 +3,7 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
-Hello evryone ,my name is Wei-Cheng Pan,I came from Taipei.This is my first-year in master’s program  of NCTU PME
+Hello evryone ,my name is Wei-Cheng Pan,I came from Taipei.This is my first-year in master’s program  of NTHU PME
 My hobby is watching movies and playing volleyball.
 English class is hard with me,but I'll try my best to get involved with this class.
 
